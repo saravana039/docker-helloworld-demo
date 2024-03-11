@@ -8,7 +8,7 @@
 FROM nginx
 
 # File Author / Maintainer
-MAINTAINER Mahendra Mehra
+MAINTAINER Saravana M
 
 # Remove the default Nginx configuration file
 RUN rm -v /etc/nginx/nginx.conf
